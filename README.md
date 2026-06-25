@@ -1,17 +1,98 @@
-# biker_hub
+# Bikers Hub
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Bikers Hub is a Flutter-based mobile application developed as a Final Year Project for Software Engineering. The platform is designed to enhance the experience of motorcycle enthusiasts by providing essential biking services and community features in a single application.
 
-This project is a starting point for a Flutter application.
+The application helps riders connect with nearby mechanics, share live locations during emergencies, plan trips, buy and sell motorcycles, engage with the biking community, and access DIY maintenance resources.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Live Location Sharing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enables riders to share their real-time location with Emergency Contacts like friends, family, or fellow bikers to improve safety and coordination during rides.
+
+### Emergency SOS Support
+
+Allows users to quickly share their location during emergencies and seek assistance when needed.
+
+### Mechanic Locator
+
+Helps riders find nearby mechanics and repair services during breakdowns or unexpected situations.
+
+### Bike Marketplace
+
+Provides a platform for users to buy, sell, and explore motorcycles and biking accessories.
+
+### Trip Planning
+
+Assists users in organizing trips with fellow riders.
+
+### Bikers Community
+
+Creates a space where motorcycle enthusiasts can connect, interact, and share their experiences.
+
+### DIY Garage
+
+Offers guidance and repairing video tutorials for basic motorcycle maintenance and troubleshooting.
+
+## Technology Stack
+
+### Frontend
+
+* Flutter
+* Dart
+
+### Backend & Database
+
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Storage
+
+### APIs & Services
+
+* OpenStreetMap
+* Real-Time Location Services
+
+## My Contributions
+
+* Front-End Development
+* UI/UX Design
+* Technical Documentation
+* Requirements Analysis
+* SDLC Activities
+
+## Learning Outcomes
+
+* Mobile Application Development
+* Software Development Life Cycle (SDLC)
+* User Interface Design
+* Software Documentation
+* Team Collaboration
+* Problem Solving
+* Firebase Integration
+* Location-Based Services
+
+## Future Enhancements
+
+* Push Notifications
+* Enhanced Community Features
+* Advanced Trip Analytics
+* Route Optimization
+* In-App Chat Improvements
+* Weather Widget
+* Fuel Stations Locator
+
+## Author
+
+**Aleesha Tariq**
+
+Software Engineering Graduate
+
+LinkedIn: [www.linkedin.com/in/aleesha-tariq-se](http://www.linkedin.com/in/aleesha-tariq-se)
+
+GitHub: github.com/Aleesha1234
+
+## Screenshots
+
+Project screenshots will be added soon.
