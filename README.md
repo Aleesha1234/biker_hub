@@ -78,3 +78,45 @@ GitHub: github.com/Aleesha1234
 ### Splash Screen
 
 ![Splash Screen](screenshots/splashscreen.jpeg)
+
+### Login Screen
+
+![Login Screen](screenshots/login.jpeg)
+
+### Registration Screen
+
+![Registration Screen](screenshots/registration.jpeg)
+
+### Home Screen
+
+![Home Screen](screenshots/homescreen.jpeg)
+
+### Emergency Contacts
+
+![Emergency Contacts](screenshots/emergencycontcts.jpeg)
+
+### SOS & Live Location Sharing
+
+![SOS & Live Location Sharing](screenshots/sos%20or%20live%20location%20sharing.jpeg)
+
+### Mechanic Locator
+
+![Mechanic Locator](screenshots/mechanic%20locator.jpeg)
+
+### Bike Marketplace
+
+![Bike Marketplace](screenshots/bikemarketplace.jpeg)
+
+### Bikers Community
+
+![Bikers Community](screenshots/bikerscommunity.jpeg)
+
+### Group Chat
+
+![Group Chat](screenshots/group%20chat.jpg)
+
+### DIY Garage
+
+![DIY Garage](screenshots/diy1.jpeg)
+
+![DIY Garage](screenshots/diy2.jpeg)
