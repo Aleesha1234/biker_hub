@@ -54,25 +54,6 @@ Offers guidance and repairing video tutorials for basic motorcycle maintenance a
 * OpenStreetMap
 * Real-Time Location Services
 
-## My Contributions
-
-* Front-End Development
-* UI/UX Design
-* Technical Documentation
-* Requirements Analysis
-* SDLC Activities
-
-## Learning Outcomes
-
-* Mobile Application Development
-* Software Development Life Cycle (SDLC)
-* User Interface Design
-* Software Documentation
-* Team Collaboration
-* Problem Solving
-* Firebase Integration
-* Location-Based Services
-
 ## Future Enhancements
 
 * Push Notifications
@@ -93,6 +74,7 @@ LinkedIn: [www.linkedin.com/in/aleesha-tariq-se](http://www.linkedin.com/in/alee
 
 GitHub: github.com/Aleesha1234
 
-## Screenshots
+## Screenshots 
+### Splash Screen
 
-Project screenshots will be added soon.
+![Splash Screen](screenshots/splashscreen.jpeg)
