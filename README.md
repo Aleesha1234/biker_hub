@@ -75,48 +75,34 @@ LinkedIn: [www.linkedin.com/in/aleesha-tariq-se](http://www.linkedin.com/in/alee
 GitHub: github.com/Aleesha1234
 
 ## Screenshots 
-### Splash Screen
 
-![Splash Screen](screenshots/splashscreen.jpeg)
+### Login & Registration
+<p align="center">
+  <img src="screenshots/login.jpeg" width="250">
+  <img src="screenshots/registration.jpeg" width="250">
+</p>
 
-### Login Screen
+### Home & Emergency
+<p align="center">
+  <img src="screenshots/homescreen.jpeg" width="250">
+  <img src="screenshots/emergencycontcts.jpeg" width="250">
+</p>
 
-![Login Screen](screenshots/login.jpeg)
+### SOS & Mechanic
+<p align="center">
+  <img src="screenshots/sos%20or%20live%20location%20sharing.jpeg" width="250">
+  <img src="screenshots/mechanic%20locator.jpeg" width="250">
+</p>
 
-### Registration Screen
+### Marketplace & Community
+<p align="center">
+  <img src="screenshots/bikemarketplace.jpeg" width="250">
+  <img src="screenshots/bikerscommunity.jpeg" width="250">
+</p>
 
-![Registration Screen](screenshots/registration.jpeg)
-
-### Home Screen
-
-![Home Screen](screenshots/homescreen.jpeg)
-
-### Emergency Contacts
-
-![Emergency Contacts](screenshots/emergencycontcts.jpeg)
-
-### SOS & Live Location Sharing
-
-![SOS & Live Location Sharing](screenshots/sos%20or%20live%20location%20sharing.jpeg)
-
-### Mechanic Locator
-
-![Mechanic Locator](screenshots/mechanic%20locator.jpeg)
-
-### Bike Marketplace
-
-![Bike Marketplace](screenshots/bikemarketplace.jpeg)
-
-### Bikers Community
-
-![Bikers Community](screenshots/bikerscommunity.jpeg)
-
-### Group Chat
-
-![Group Chat](screenshots/group%20chat.jpg)
-
-### DIY Garage
-
-![DIY Garage](screenshots/diy1.jpeg)
-
-![DIY Garage](screenshots/diy2.jpeg)
+### Chat & DIY
+<p align="center">
+  <img src="screenshots/group%20chat.jpg" width="250">
+  <img src="screenshots/diy1.jpeg" width="250">
+  <img src="screenshots/diy2.jpeg" width="250">
+</p>
